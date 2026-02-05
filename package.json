@@ -36,6 +36,7 @@
   "files": [
     "hooks/",
     "agents/",
+    ".github/",
     "README.md",
     "CLAUDE.md",
     ".mcp.json",
