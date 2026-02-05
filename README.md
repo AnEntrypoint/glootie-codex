@@ -1,17 +1,17 @@
-# glootie-oc for Codex
+# glootie for Codex
 
 ## Installation
 
 Copy to your Codex plugins directory:
 
 ```bash
-cp -r . ~/.codex/plugins/glootie-oc
+cp -r . ~/.codex/plugins/glootie
 ```
 
 Or clone directly:
 
 ```bash
-git clone https://github.com/AnEntrypoint/glootie-codex ~/.codex/plugins/glootie-oc
+git clone https://github.com/AnEntrypoint/glootie-codex ~/.codex/plugins/glootie
 ```
 
 ## Environment
